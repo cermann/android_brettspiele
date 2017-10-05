@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Brettspiel.unity
+  isLoaded: 1
+  isActive: 1
